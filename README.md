@@ -2,7 +2,7 @@
   <img src="https://thumbs.dreamstime.com/b/robot-hand-holding-ai-ml-hologram-artificial-intelligence-machine-learning-technology-concept-robot-hand-holding-ai-ml-395865191.jpg" width="100%" height="260" style="object-fit:cover;" alt="AI and Machine Learning banner" />
 </p>
 <p align="center">
-  <a href="https://github.com/Priyanshi-Vishwakarma22"><img src="https://komarev.com/ghpvc/?username=Priyanshi-Vishwakarma22&label=Profile%20Views&color=2c5364&style=flat" /></a>
+  <a href="[https://github.com/Priyanshi-Vishwakarma22"><img src="https://komarev.com/ghpvc/?username=Priyanshi-Vishwakarma22&label=Profile%20Views&color=2c5364&style=flat"](https://tse4.mm.bing.net/th/id/OIP.B5o-od8GPW_AoKu9OopUugHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) /></a>
 <h1 align="center">Priyanshi Vishwakarma</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer</h3>
 </p>
