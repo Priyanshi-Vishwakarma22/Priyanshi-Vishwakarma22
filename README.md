@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Priyanshi%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer&descSize=18&descAlignY=68" />
+  <img src="https://thumbs.dreamstime.com/b/robot-hand-holding-ai-ml-hologram-artificial-intelligence-machine-learning-technology-concept-robot-hand-holding-ai-ml-395865191.jpg" width="100%" height="260" style="object-fit:cover;" alt="AI and Machine Learning banner" />
 </p>
+
+<h1 align="center">Priyanshi Vishwakarma</h1>
+<h3 align="center">Data Analyst | Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Priyanshi-Vishwakarma22"><img src="https://komarev.com/ghpvc/?username=Priyanshi-Vishwakarma22&label=Profile%20Views&color=2c5364&style=flat" /></a>
@@ -8,7 +11,7 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm **Priyanshi Vishwakarma**, a B.Tech Computer Science Engineering (AI & ML) student and aspiring **Artificial Intelligence & Machine Learning Engineer | Data Analyst**.
+👋 Hi, I'm **Priyanshi Vishwakarma**, a B.Tech Computer Science Engineering (AI & ML) student and aspiring **Data Analyst | Machine Learning Engineer**.
 
 I have hands-on experience in **data analytics, machine learning, and business intelligence**. I enjoy building end-to-end, data-driven projects, from cleaning raw data and exploratory analysis to predictive modeling and interactive dashboards, and turning data into **actionable business insights** through AI-driven solutions.
 
@@ -111,4 +114,4 @@ I have hands-on experience in **data analytics, machine learning, and business i
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
-</p>s
+</p>
