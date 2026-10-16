@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm **Priyanshi Vishwakarma**, a B.Tech Computer Science Engineering (AI & ML) student and aspiring **Data Analyst | Machine Learning Engineer**.
+👋 Hi, I'm **Priyanshi Vishwakarma**, a B.Tech Computer Science Engineering (AI & ML) student and aspiring **Artificial Intelligence & Machine Learning Engineer | Data Analyst**.
 
 I have hands-on experience in **data analytics, machine learning, and business intelligence**. I enjoy building end-to-end, data-driven projects, from cleaning raw data and exploratory analysis to predictive modeling and interactive dashboards, and turning data into **actionable business insights** through AI-driven solutions.
 
