@@ -70,7 +70,7 @@ I have hands-on experience in **data analytics, machine learning, and business i
 - Preprocessed and merged metadata (genres, keywords, cast, crew, overview) with NLTK and vectorized it using CountVectorizer.
 - Used **cosine similarity** to recommend the top similar movies for any selected title.
 - Developed a Netflix-inspired **Streamlit app** with posters, ratings and YouTube trailer integration, plus favorites, search history and CSV export.
-- 🔗 [GitHub](https://github.com/Priyanshi-Vishwakarma22/YOUR-MOVIE-REPO-NAME) | [Live Demo](https://YOUR-LIVE-DEMO-LINK)
+- 🔗 [GitHub](https://github.com/Priyanshi-Vishwakarma22/YOUR-MOVIE-REPO-NAME) | [Live Demo]([https://content-based-movie-recommendtion-system.onrender.com/])
 
 ### 🏥 [Hospital Readmission Risk Prediction](https://github.com/Priyanshi-Vishwakarma22/Hospital_Readmission_Risk_Prediction)
 `Python` `Machine Learning` `Jupyter Notebook`
